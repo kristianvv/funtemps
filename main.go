@@ -4,7 +4,7 @@ import (
 	"flag"
 	"fmt"
 
-	"conv_test.go/conv"
+	"github.com/kristianvv/funtemps/conv"
 )
 
 var (
